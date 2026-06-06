@@ -4,6 +4,22 @@ A single-file mobile web tool that uses your device's motion sensors to **detect
 
 > **Languages:** English | [中文](README.zh-CN.md)
 
+<p>
+  <a href="https://hello-claude.github.io/Vibration-counter/"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-online-2ea44f"></a>
+  <img alt="Platform" src="https://img.shields.io/badge/platform-iPhone_Apple_Watch_Web-4c8bf5">
+  <img alt="Vanilla JS" src="https://img.shields.io/badge/built_with-vanilla_JS-f7df1e">
+  <img alt="Single file" src="https://img.shields.io/badge/single_file-no_build-555">
+</p>
+
+🔗 **[Open the live demo →](https://hello-claude.github.io/Vibration-counter/)** — open it on your phone over HTTPS, grant motion access, and tap the big number.
+
+**Highlights**
+- 📲 Runs in the phone browser — **no install**, one `index.html`.
+- 🎯 High-pass filter cancels gravity/orientation, so only real shakes count.
+- 🎚️ Tune sensitivity, upper-limit, and cooldown to match your tapping.
+- ⏯️ Tap to reset, long-press to pause; live peak / rate / timer.
+- 🔒 Stays awake on iPhone & Apple Watch via multiple anti-lock tricks.
+
 ---
 
 ## What it does
