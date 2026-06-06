@@ -4,6 +4,22 @@
 
 > **语言:** [English](README.md) | 中文
 
+<p>
+  <a href="https://hello-claude.github.io/Vibration-counter/"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-online-2ea44f"></a>
+  <img alt="Platform" src="https://img.shields.io/badge/platform-iPhone_Apple_Watch_Web-4c8bf5">
+  <img alt="Vanilla JS" src="https://img.shields.io/badge/built_with-vanilla_JS-f7df1e">
+  <img alt="Single file" src="https://img.shields.io/badge/single_file-no_build-555">
+</p>
+
+🔗 **[打开在线 Demo →](https://hello-claude.github.io/Vibration-counter/)** — 用手机在 HTTPS 下打开,授权运动传感器,点中间大数字即可。
+
+**亮点**
+- 📲 手机浏览器直接跑,**免安装**,就一个 `index.html`。
+- 🎯 高通滤波抵消重力/朝向,只数真正的晃动。
+- 🎚️ 灵敏度、上限、冷却三档可调,贴合你的敲击节奏。
+- ⏯️ 点按归零、长按暂停;实时峰值/速率/计时。
+- 🔒 iPhone 与 Apple Watch 上多重防熄屏。
+
 ---
 
 ## 它能做什么
